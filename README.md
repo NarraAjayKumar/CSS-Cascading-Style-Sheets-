@@ -7,6 +7,8 @@ Each CSS topic is placed in its own folder, and the `index.html` file links all 
 ---
 
 ## 📁 Project Structure
+
+```
 Project/
 │
 ├── index.html
@@ -30,6 +32,8 @@ Project/
 ├── 9. Background Image/
 │
 └── 10. Animations/
+```
+
 
 
 
