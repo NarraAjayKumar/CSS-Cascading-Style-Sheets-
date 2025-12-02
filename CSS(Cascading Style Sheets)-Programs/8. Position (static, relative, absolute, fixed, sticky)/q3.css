@@ -1,0 +1,16 @@
+.q49-parent {
+    position: relative;        /* parent must be relative */
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+.q49-child {
+    position: absolute;        /* child becomes absolute */
+    top: 20px;                 /* moves inside parent */
+    left: 20px;
+    width: 90px;
+    height: 90px;
+    background-color: lightblue;
+}

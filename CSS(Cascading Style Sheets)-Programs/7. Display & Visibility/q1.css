@@ -1,0 +1,7 @@
+.q40 {
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid black;
+}

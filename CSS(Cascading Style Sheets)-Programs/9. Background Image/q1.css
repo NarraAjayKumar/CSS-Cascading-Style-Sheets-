@@ -1,0 +1,9 @@
+.q52-banner {
+    width: 50%;
+    height: 800px;
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    /* Stretch the background image to exactly match the element's width and height */
+
+    background-position: center;
+}

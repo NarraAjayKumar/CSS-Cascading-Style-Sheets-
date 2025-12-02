@@ -1,0 +1,15 @@
+.q75 {
+    font-size: 20px;
+    animation: loopText 2s infinite;
+    font-style: blue;
+}
+
+@keyframes loopText {
+    from {
+        font-size: 20px;
+        font-size: gray;
+    }
+    to {
+        font-size: 40px;
+    }
+}

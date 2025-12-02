@@ -1,0 +1,13 @@
+.q74 {
+    font-size: 20px;
+    animation: growText 2s infinite;
+}
+
+@keyframes growText {
+    from {
+        font-size: 20px;
+    }
+    to {
+        font-size: 40px;
+    }
+}
