@@ -7,21 +7,30 @@ Each CSS topic is placed in its own folder, and the `index.html` file links all 
 ---
 
 ## 📁 Project Structure
-
 Project/
 │
 ├── index.html
 │
 ├── 1. Basics of CSS/
+│
 ├── 2. Color & Background/
+│
 ├── 3. Selectors/
+│
 ├── 4. Text Properties/
+│
 ├── 5. Units (px, %, em, rem, vh, vw)/
+│
 ├── 6. Box Model (Height, Width, Border, Padding, Margin)/
+│
 ├── 7. Display & Visibility/
+│
 ├── 8. Position (static, relative, absolute, fixed, sticky)/
+│
 ├── 9. Background Image/
+│
 └── 10. Animations/
+
 
 Each folder contains:
 - Multiple `.css` files (q1.css, q2.css, q3.css, …)
